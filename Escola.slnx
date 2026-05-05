@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Escola.API/Escola.API.csproj" />
+  <Project Path="Escola.Application/Escola.Application.csproj" Id="dff579ea-1970-462a-a67e-00b9c6dd62e4" />
+  <Project Path="Escola.Domain/Escola.Domain.csproj" Id="4d44ce41-0489-40d7-8741-ec7d7ed6098b" />
+  <Project Path="Escola.Infra.Data/Escola.Infra.Data.csproj" Id="952d0aaa-3acc-40c6-99b0-3458bb501d7b" />
+  <Project Path="Escola.Infra.Ioc/Escola.Infra.Ioc.csproj" Id="c5e70578-b5b8-42a3-965e-18f625103433" />
+</Solution>
